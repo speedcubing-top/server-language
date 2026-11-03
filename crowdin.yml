@@ -1,12 +1,12 @@
-# Crowdin: en.json is the source; translations are written next to it as <locale>.json.
-# Language ids used by the servers (LanguageSystem): de=0, en=1, zh-TW=2, zh-CN=3.
+# Crowdin: en/<module>.json are the sources; translations go to <locale>/<module>.json.
+# Servers (LanguageSystem) load every json in /storage/lang/<locale>/ and merge them; ids: de=0, en=1, zh-tw=2, zh-cn=3.
 # Placeholders: %p% (filled in order) and § colour codes must be kept as-is in translations.
-preserve_hierarchy: true
+# Modules: system (shared/server), lobby, kbffa, clutch, fastbuilder, mlgrush, practice, reduce. Keys must be unique across modules.
 files:
-  - source: /en.json
-    translation: /%locale%.json
+  - source: /en/*.json
+    translation: /%locale%/%original_file_name%
     languages_mapping:
       locale:
         de: de
-        zh-TW: zh-TW
-        zh-CN: zh-CN
+        zh-TW: zh-tw
+        zh-CN: zh-cn
