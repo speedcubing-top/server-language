@@ -1,0 +1,18 @@
+name: Rebuild server images
+
+# Language files are baked into the game server images, so a change here (including merged Crowdin PRs)
+# triggers the image builds through the webhook runner.
+on:
+  push:
+    branches: [ main ]
+    paths: [ '*.json' ]
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Webhook Runner
+        run: |
+          curl -fsS -X POST https://webhook.speedcubing.top/github/speedcubing-top/server-language/build \
+          -H "Authorization: Bearer ${{ secrets.WEBHOOK_RUNNER_SECRET }}"
