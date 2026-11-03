@@ -88,7 +88,6 @@
   "server_invalid_mod": "§c检测到不允许的模组。",
   "server_kaboom_by": "§c来自 %p%",
   "server_language_changed": "§8[§e系统§8] §a成功切换至中文(简体)！\n§8[§e系统§8] §c服务器尚未完全翻译。",
-  "server_language_usage": "§c用法：/language <0-3>",
   "server_login_error": "§8[§cSystem§8] §c发生错误 (%p%)，请重新加入。",
   "server_maintenance": "§c此服务器目前正在维护中。",
   "server_nick_book_done": "你已完成\n昵称设置！\n\n你的昵称是：\n%p%§0。",
