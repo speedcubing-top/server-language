@@ -33,7 +33,6 @@
   "lobby_msg_reset_stat_success": "Successfully reset your stats.",
   "lobby_msg_reset_stat_success_rejoin": "Sucessfully reset your settings.\nPlease rejoin.",
   "lobby_msg_sure_reset": "§cAre you sure you want to reset?",
-  "lobby_msg_translate_success": "§8[§eSystem§8] §aSuccessfully changed to English!\n§8[§eSystem§8] §cThe server is not fully translated yet.",
   "lobby_register_already": "§8[§aLobby§8] §cYou are already registered.",
   "lobby_register_mismatch": "§8[§aLobby§8] §cThe password and confirm password do not match.",
   "lobby_register_success": "§8[§aLobby§8] §aSuccessfully registered!",

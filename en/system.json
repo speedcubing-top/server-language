@@ -87,6 +87,8 @@
   "server_image_render_failed": "§8[§dImage§8] §cThe image could not be displayed.",
   "server_invalid_mod": "§cInvalid Modification Found.",
   "server_kaboom_by": "§cBy %p%",
+  "server_language_changed": "§8[§eSystem§8] §aSuccessfully changed to English!\n§8[§eSystem§8] §cThe server is not fully translated yet.",
+  "server_language_usage": "§cUsage: /language <0-3>",
   "server_login_error": "§8[§cSystem§8] §cError (%p%), please rejoin.",
   "server_maintenance": "§cThis server is currently under maintenance.",
   "server_nick_book_done": "You have finished\nsetting up your\nnickname!\n\nYour nickname is:\n%p%§0.",

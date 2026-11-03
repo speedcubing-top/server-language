@@ -33,7 +33,6 @@
   "lobby_msg_reset_stat_success": "成功重置你的统计资料。",
   "lobby_msg_reset_stat_success_rejoin": "成功重置你的设置。\n请重新加入。",
   "lobby_msg_sure_reset": "§c你确定要重置吗？",
-  "lobby_msg_translate_success": "§8[§e系统§8] §a成功切换至中文(简体)！\n§8[§e系统§8] §c服务器尚未完全翻译。",
   "lobby_register_already": "§8[§aLobby§8] §c你已经注册了。",
   "lobby_register_mismatch": "§8[§aLobby§8] §c两次输入的密码不一致。",
   "lobby_register_success": "§8[§aLobby§8] §a注册成功！",

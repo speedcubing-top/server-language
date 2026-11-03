@@ -87,6 +87,8 @@
   "server_image_render_failed": "§8[§dImage§8] §c無法顯示圖片。",
   "server_invalid_mod": "§c偵測到不允許的模組。",
   "server_kaboom_by": "§c來自 %p%",
+  "server_language_changed": "§8[§e系統§8] §a成功切換至中文(繁體)！\n§8[§e系統§8] §c伺服器尚未完全翻譯。",
+  "server_language_usage": "§c用法：/language <0-3>",
   "server_login_error": "§8[§cSystem§8] §c發生錯誤 (%p%)，請重新加入。",
   "server_maintenance": "§c此伺服器目前正在維護中。",
   "server_nick_book_done": "你已完成\n暱稱設定！\n\n你的暱稱是：\n%p%§0。",

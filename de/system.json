@@ -87,6 +87,8 @@
   "server_image_render_failed": "§8[§dImage§8] §cDas Bild konnte nicht angezeigt werden.",
   "server_invalid_mod": "§cUnzulässige Modifikation gefunden.",
   "server_kaboom_by": "§cVon %p%",
+  "server_language_changed": "§8[§eSystem§8] §aSprache erfolgreich auf Deutsch umgestellt!\n§8[§eSystem§8] §cDer Server ist noch nicht vollständig übersetzt.",
+  "server_language_usage": "§cVerwendung: /language <0-3>",
   "server_login_error": "§8[§cSystem§8] §cFehler (%p%), bitte verbinde dich erneut.",
   "server_maintenance": "§cDieser Server befindet sich derzeit in Wartung.",
   "server_nick_book_done": "Du hast deinen Nick\nfertig eingerichtet!\n\nDein Nick ist:\n%p%§0.",
