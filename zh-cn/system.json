@@ -120,6 +120,7 @@
   "server_nick_book_unnick_hint": "§0若要恢复原本身份，\n请输入：\n§l/unnick",
   "server_nick_generating": "§8[§bNick§8] §e正在生成随机名称，请稍候...",
   "server_nick_no_previous": "§8[§bNick§8] §c你之前没有使用过昵称，请使用 §e/nick <昵称>§c。",
+  "server_nick_rank_not_allowed": "§8[§bNick§8] §c你只能使用不高于自身等级的等级来昵称。",
   "server_nick_reused": "§8[§bNick§8] §a已重新使用你的昵称！",
   "server_nick_sign_enter_name": "输入名称",
   "server_nick_skin_alex": "§8[§bNick§8] §a已将你的皮肤设为 Alex。",

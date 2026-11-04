@@ -120,6 +120,7 @@
   "server_nick_book_unnick_hint": "§0To go back to being\nyour usual self, type:\n§l/unnick",
   "server_nick_generating": "§8[§bNick§8] §eGenerating a unique random name. Please wait...",
   "server_nick_no_previous": "§8[§bNick§8] §cYou haven't used a nick before. Please use §e/nick <nickname>§c.",
+  "server_nick_rank_not_allowed": "§8[§bNick§8] §cYou can only nick as a rank at or below your own.",
   "server_nick_reused": "§8[§bNick§8] §aYou have reused your nickname!",
   "server_nick_sign_enter_name": "Enter a name",
   "server_nick_skin_alex": "§8[§bNick§8] §aSet your skin to Alex.",
