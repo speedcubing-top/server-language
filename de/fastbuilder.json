@@ -1,4 +1,5 @@
 {
+  "fb_cross_world_teleport": "§8[§eFastBuilder§8] §cWeltübergreifende Teleports per Befehl sind hier deaktiviert.",
   "fb_custom_height": "§bHeight (§aLeft--§8/§cRight++§b)",
   "fb_custom_length": "§bLength (§aLeft--§8/§cRight++§b)",
   "fb_custom_name": "Custom",
@@ -23,7 +24,7 @@
   "fb_lore_custom_loop": "\n§dCurrent: %p%",
   "fb_lore_replay_single": "§8%p%\n\n§bTime: §e%p%\n\n§bID: §6%p%\n\n§aLeft click to watch\n§dRight click to add/remove from favorite\n\n§cThis reply will expire at %p% unless it’s added to favorites.",
   "fb_lore_replay_single_fav": "§8%p%\n\n§bTime: §e%p%\n\n§bID: §6%p%\n\n§aLeft click to watch\n§dRight click to add/remove from favorite",
-  "fb_nomap": "§7[§bFastBuilder§7] §cWe couldn't find any available slot.",
+  "fb_nomap": "§8[§eFastBuilder§8] §cWe couldn't find any available slot.",
   "fb_normal_name": "Normal",
   "fb_onestack_name": "Onestack",
   "fb_pb": "§8---------------------------------------------\n                        §bCongratulations!\n                        §e%p% §8-> §e%p%\n                        §8(§bbeat by §a%p%§8)\n§8---------------------------------------------",
@@ -34,7 +35,7 @@
   "fb_replay_usage": "§8[§eFastBuilder§8] §cVerwendung: /replay <Wiederholungs-ID>",
   "fb_replaybook_title": "§bFastBuider Replay",
   "fb_reset_current": "§cReset Personal Best in your current mode",
-  "fb_score_out": "§cThis score is out of range.",
+  "fb_score_out": "§8[§eFastBuilder§8] §cThis score is out of range.",
   "fb_short_name": "Short",
   "fb_sidebar_height": "§aHöhe:",
   "fb_sidebar_length": "§aLänge:",
@@ -43,5 +44,5 @@
   "fb_sidebar_time": "§aZeit:",
   "fb_stats_unavailable": "§8[§eFastBuilder§8] §cDieser Befehl ist derzeit nicht verfügbar.",
   "fb_time_display": "§aTime: §e%p%",
-  "fb_timeout": "§7[§bFastBuilder§7] §cThe bridging attempt is cancelled! (timed out)"
+  "fb_timeout": "§8[§eFastBuilder§8] §cThe bridging attempt is cancelled! (timed out)"
 }

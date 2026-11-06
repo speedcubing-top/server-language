@@ -1,4 +1,5 @@
 {
+  "fb_cross_world_teleport": "§8[§eFastBuilder§8] §c此處已停用透過指令進行跨世界傳送。",
   "fb_custom_height": "§b高度（§a左鍵--§8/§c右鍵++§b）",
   "fb_custom_length": "§b長度（§a左鍵--§8/§c右鍵++§b）",
   "fb_custom_name": "自訂",
@@ -23,7 +24,7 @@
   "fb_lore_custom_loop": "\n§d目前：%p%",
   "fb_lore_replay_single": "§8%p%\n\n§b時間：§e%p%\n\n§bID：§6%p%\n\n§a左鍵觀看\n§d右鍵加入/移出最愛\n\n除非將此重播加入最愛，否則它將於 %p% 過期。",
   "fb_lore_replay_single_fav": "§8%p%\n\n§b時間：§e%p%\n\n§bID：§6%p%\n\n§a左鍵觀看\n§d右鍵加入/移出最愛",
-  "fb_nomap": "§7[§bFastBuilder§7] §c找不到任何可用位置。",
+  "fb_nomap": "§8[§eFastBuilder§8] §c找不到任何可用位置。",
   "fb_normal_name": "正常",
   "fb_onestack_name": "一組",
   "fb_pb": "§8---------------------------------------------\n                        §b恭喜！\n                        §e%p% §8-> §e%p%\n                        §8（§b超越幅度：§a%p%§8）\n§8---------------------------------------------",
@@ -34,7 +35,7 @@
   "fb_replay_usage": "§8[§eFastBuilder§8] §c用法：/replay <重播 ID>",
   "fb_replaybook_title": "§bFastBuider 重播",
   "fb_reset_current": "§c重設目前模式中的個人最佳紀錄",
-  "fb_score_out": "§c此分數超出範圍。",
+  "fb_score_out": "§8[§eFastBuilder§8] §c此分數超出範圍。",
   "fb_short_name": "短",
   "fb_sidebar_height": "§a高度：",
   "fb_sidebar_length": "§a長度：",
@@ -43,5 +44,5 @@
   "fb_sidebar_time": "§a時間：",
   "fb_stats_unavailable": "§8[§eFastBuilder§8] §c此指令目前無法使用。",
   "fb_time_display": "§a時間：§e%p%",
-  "fb_timeout": "§7[§bFastBuilder§7] §c搭橋嘗試已取消！（已逾時）"
+  "fb_timeout": "§8[§eFastBuilder§8] §c搭橋嘗試已取消！（已逾時）"
 }
