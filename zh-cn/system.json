@@ -122,6 +122,7 @@
   "server_nick_no_previous": "§8[§bNick§8] §c你之前没有使用过昵称，请使用 §e/nick <昵称>§c。",
   "server_nick_rank_not_allowed": "§8[§bNick§8] §c你只能使用不高于自身等级的等级来昵称。",
   "server_nick_reused": "§8[§bNick§8] §a已重新使用你的昵称！",
+  "server_nick_sign_empty_cancel": "留空即取消",
   "server_nick_sign_enter_name": "输入名称",
   "server_nick_skin_alex": "§8[§bNick§8] §a已将你的皮肤设为 Alex。",
   "server_nick_skin_random": "§8[§bNick§8] §a已将你的皮肤设为 §e%p%§a。",
