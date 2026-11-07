@@ -22,10 +22,6 @@
   "lobby_item_reset_settings": "§cReset your settings",
   "lobby_item_reset_stat": "§cReset your stats",
   "lobby_item_settings": "§cSettings",
-  "lobby_login_already": "§cDu bist bereits angemeldet.",
-  "lobby_login_register_first": "§cBitte registriere dich zuerst.",
-  "lobby_login_success": "§aErfolgreich angemeldet!",
-  "lobby_login_wrong_password": "§cFalsches Passwort.",
   "lobby_lore_discord_edit": "§aLeft: edit§8 , §cRight: remove",
   "lobby_msg_alr_in_lobby": "§cYou are already in the lobby.",
   "lobby_msg_cooldown": "§cBitte warte kurz, bevor du das erneut benutzt.",
@@ -39,11 +35,6 @@
   "lobby_msg_reset_stat_success": "§aSuccessfully reset your stats.",
   "lobby_msg_reset_stat_success_rejoin": "Sucessfully reset your settings.\nPlease rejoin.",
   "lobby_msg_sure_reset": "§cAre you sure you want to reset?",
-  "lobby_register_already": "§cDu bist bereits registriert.",
-  "lobby_register_mismatch": "§cDie Passwörter stimmen nicht überein.",
-  "lobby_register_success": "§aErfolgreich registriert!",
-  "lobby_register_too_long": "§cDas Passwort ist zu lang (maximal 16 Zeichen).",
-  "lobby_register_too_short": "§cDas Passwort ist zu kurz. Du brauchst mindestens 8 Zeichen.",
   "lobby_terms_accept": "§8[§2Akzeptieren§8]",
   "lobby_terms_accept_hover": "§eKlicke hier, um zu §2akzeptieren§e.",
   "lobby_terms_denied_kick": "§cDu musst die Regeln und die Datenschutzerklärung akzeptieren, um auf diesem Server zu spielen.",
@@ -54,7 +45,5 @@
   "lobby_terms_privacy_hover": "§eKlicke hier, um die §5Datenschutzerklärung §ezu öffnen.",
   "lobby_terms_rules": "§8[§5Regeln§8]",
   "lobby_terms_rules_hover": "§eKlicke hier, um die §5Regeln §ezu öffnen.",
-  "lobby_usage_lang": "§cVerwendung: /lang",
-  "lobby_usage_login": "§cVerwendung: /login <Passwort>",
-  "lobby_usage_register": "§cVerwendung: /register <Passwort> <Passwort bestätigen>"
+  "lobby_usage_lang": "§cVerwendung: /lang"
 }

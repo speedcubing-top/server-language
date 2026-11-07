@@ -22,10 +22,6 @@
   "lobby_item_reset_settings": "§cReset your settings",
   "lobby_item_reset_stat": "§cReset your stats",
   "lobby_item_settings": "§cSettings",
-  "lobby_login_already": "§cYou are already logged in.",
-  "lobby_login_register_first": "§cPlease register first.",
-  "lobby_login_success": "§aSuccessfully logged in!",
-  "lobby_login_wrong_password": "§cIncorrect password.",
   "lobby_lore_discord_edit": "§aLeft: edit§8 , §cRight: remove",
   "lobby_msg_alr_in_lobby": "§cYou are already in the lobby.",
   "lobby_msg_cooldown": "§cPlease wait before using this again.",
@@ -39,11 +35,6 @@
   "lobby_msg_reset_stat_success": "§aSuccessfully reset your stats.",
   "lobby_msg_reset_stat_success_rejoin": "Successfully reset your settings.\nPlease rejoin.",
   "lobby_msg_sure_reset": "§cAre you sure you want to reset?",
-  "lobby_register_already": "§cYou are already registered.",
-  "lobby_register_mismatch": "§cThe password and confirm password do not match.",
-  "lobby_register_success": "§aSuccessfully registered!",
-  "lobby_register_too_long": "§cThe password is too long (max 16 characters).",
-  "lobby_register_too_short": "§cThe password is too short. You need at least 8 characters.",
   "lobby_terms_accept": "§8[§2Accept§8]",
   "lobby_terms_accept_hover": "§eClick here to §2accept§e.",
   "lobby_terms_denied_kick": "§cYou must accept the rules and privacy policy to play on this server.",
@@ -54,7 +45,5 @@
   "lobby_terms_privacy_hover": "§eClick here to open the §5privacy policy §epage.",
   "lobby_terms_rules": "§8[§5rules§8]",
   "lobby_terms_rules_hover": "§eClick here to open the §5rules §epage.",
-  "lobby_usage_lang": "§cUsage: /lang",
-  "lobby_usage_login": "§cUsage: /login <password>",
-  "lobby_usage_register": "§cUsage: /register <password> <confirm password>"
+  "lobby_usage_lang": "§cUsage: /lang"
 }
