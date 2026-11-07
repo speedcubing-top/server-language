@@ -122,6 +122,7 @@
   "server_nick_no_previous": "§8[§bNick§8] §cDu hast noch keinen Nick verwendet. Nutze §e/nick <nickname>§c.",
   "server_nick_rank_not_allowed": "§8[§bNick§8] §cDu kannst dich nur mit einem Rang nicken, der nicht höher als dein eigener ist.",
   "server_nick_reused": "§8[§bNick§8] §aDu verwendest deinen vorherigen Nick erneut.",
+  "server_nick_sign_empty_cancel": "Leer = Abbruch",
   "server_nick_sign_enter_name": "Name eingeben",
   "server_nick_skin_alex": "§8[§bNick§8] §aDein Skin ist jetzt Alex.",
   "server_nick_skin_random": "§8[§bNick§8] §aDein Skin ist jetzt §e%p%§a.",
