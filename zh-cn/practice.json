@@ -59,7 +59,7 @@
   "practice_forceend_done": "§8[§bPractice§8] §a已结束 %p% 的对战。",
   "practice_forceend_not_found": "§8[§bPractice§8] §c玩家 %p% 不在线！",
   "practice_forceend_not_in_match": "§8[§bPractice§8] §c%p% 不在对战中！",
-  "practice_forceend_notice": "§8[§bPractice§8] §c此对战已被 %p% 强制结束，没有胜者。",
+  "practice_forceend_notice": "§8[§bPractice§8] §c管理员已取消了你的游戏，你的数据不会受到影响。",
   "practice_game_create_failed": "§8[§bPractice§8] §c无法创建游戏：§e%p%",
   "practice_game_loser": "§c失败者：§e%p%",
   "practice_game_not_found": "§8[§bPractice§8] §c找不到该游戏。",

@@ -59,7 +59,7 @@
   "practice_forceend_done": "§8[§bPractice§8] §aEnded the match of %p%.",
   "practice_forceend_not_found": "§8[§bPractice§8] §cPlayer %p% is not online!",
   "practice_forceend_not_in_match": "§8[§bPractice§8] §c%p% is not in a match!",
-  "practice_forceend_notice": "§8[§bPractice§8] §cThis match was ended by %p%. No winner.",
+  "practice_forceend_notice": "§8[§bPractice§8] §cAn admin has cancelled your game, your stats won't be affected.",
   "practice_game_create_failed": "§8[§bPractice§8] §cFailed to create game: §e%p%",
   "practice_game_loser": "§cLoser: §e%p%",
   "practice_game_not_found": "§8[§bPractice§8] §cGame not found.",
